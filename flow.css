@@ -1,0 +1,28 @@
+body {font-family:Georgia, Times, 'Times New Roman', serif ;}
+
+p {align-self: center;
+    padding-left: 3em;
+    padding-right: 3em;
+    color:rgb(0, 0, 0);
+}
+
+h1{font-size: 30px;
+font-weight: 600;}
+
+.flow_body {font-size: large;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            align-content: auto;}
+
+#flow_book{height:400px;
+           width:300px;
+           margin:20px}
+
+video{width: 500px;
+        height:500px;
+        padding-left: 20%;
+        padding-top: 0px;}
+
+    #book_store{font-size: medium;}
+
+.flow-list{font-size: large;
+            font-weight: bold;}
