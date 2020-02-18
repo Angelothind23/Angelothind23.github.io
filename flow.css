@@ -11,7 +11,9 @@ font-weight: 600;}
 
 .flow_body {font-size: large;
             font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-            align-content: auto;}
+            align-content: auto;
+            padding-left: 2em;
+            padding-right: 2em;}
 
 #flow_book{height:400px;
            width:300px;
@@ -26,3 +28,5 @@ video{width: 500px;
 
 .flow-list{font-size: large;
             font-weight: bold;}
+
+iframe{ padding-left:3em;}
